@@ -108,11 +108,11 @@ Refer to: https://ieeexplore.ieee.org/document/7475300/
 ---
 
 ## References
-[1] P. T. Patil, V. Ingale, "Design of a Low Power PLL in 90nm CMOS Technology," 2019 IEEE 5th International Conference for Convergence in Technology (I2CT), pp. 1-4, 2019.
-[2] M. D. K. Naik, "Design and Analysis of Efficient Phase Locked Loop," Bachelor’s Thesis, National Institute of Technology, India, 2015.
-[3] G. Bhargav, G. Prasad, S. D. Canchi, B. Chanikya, "Design and Analysis of Phase Locked Loop in 90nm CMOS," 2016 Thirteenth International Conference on Wireless and Optical Communications Networks (WOCN), pp. 1-7, 2016.
-[4] Roland E. Best, Phase-Locked Loops: Design, Simulation, and Applications, Fifth Edition, McGraw-Hill Education, 2003, pp. 11-16.
-[5] Behzad Razavi, Design of Analog CMOS Integrated Circuits, Second Edition, McGraw-Hill Education, 2017, pp. 651-685.
-[6] Jeffrey S. Pattavina, "Charge-Pump Phase-Locked Loop – A Tutorial," [Online]. Available: https://www.eetimes.com/charge-pump-phase-locked-loopa-tutorial-part-i/. [Accessed: 30-May-2025].
-[7] Sandhiya S, Revathi S, Dr. B. Vinothkumar, "Design of Voltage Controlled Oscillator in 180 nm CMOS Technology," International Research Journal of Engineering and Technology (IRJET), vol. 5, no. 3, pp. 1347-1351, 2018.
-[8] Kunjan Devendra Shinde, "Design and implementation of 1 GHz Current Starved Voltage Controlled Oscillator (VCO) for PLL using 90nm CMOS technology," 2015 International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT), 2015.
+[1] P. T. Patil, V. Ingale, "Design of a Low Power PLL in 90nm CMOS Technology," 2019 IEEE 5th International Conference for Convergence in Technology (I2CT), pp. 1-4, 2019.   
+[2] M. D. K. Naik, "Design and Analysis of Efficient Phase Locked Loop," Bachelor’s Thesis, National Institute of Technology, India, 2015.   
+[3] G. Bhargav, G. Prasad, S. D. Canchi, B. Chanikya, "Design and Analysis of Phase Locked Loop in 90nm CMOS," 2016 Thirteenth International Conference on Wireless and Optical Communications Networks (WOCN), pp. 1-7, 2016.   
+[4] Roland E. Best, Phase-Locked Loops: Design, Simulation, and Applications, Fifth Edition, McGraw-Hill Education, 2003, pp. 11-16.   
+[5] Behzad Razavi, Design of Analog CMOS Integrated Circuits, Second Edition, McGraw-Hill Education, 2017, pp. 651-685.   
+[6] Jeffrey S. Pattavina, "Charge-Pump Phase-Locked Loop – A Tutorial," [Online]. Available: https://www.eetimes.com/charge-pump-phase-locked-loopa-tutorial-part-i/. [Accessed: 30-May-2025].   
+[7] Sandhiya S, Revathi S, Dr. B. Vinothkumar, "Design of Voltage Controlled Oscillator in 180 nm CMOS Technology," International Research Journal of Engineering and Technology (IRJET), vol. 5, no. 3, pp. 1347-1351, 2018.   
+[8] Kunjan Devendra Shinde, "Design and implementation of 1 GHz Current Starved Voltage Controlled Oscillator (VCO) for PLL using 90nm CMOS technology," 2015 International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT), 2015.   
